@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.vii_mook.recyclecardviewgrid">
+    package="com.example.vii_mook.recyclecardviewadd_del">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/MaterialTheme">
-        <activity android:name=".app.MainActivity">
+        <activity android:name="com.example.vii_mook.recyclecardviewadd_del.app.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
